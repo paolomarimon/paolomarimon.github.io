@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>DA05L02</p>
-    <p> Institute für Diskrete Mathematik & Geometrie. 
-</p>
+    <p> Institute für Diskrete Mathematik & Geometrie. </p>
     <p>Wien, Austria 12345</p>
 
 news: true  # includes a list of news items
