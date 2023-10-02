@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle:  Address. Contacts. Moto. Etc.
+subtitle: paolo.marimon@tuwien.ac.at
 
 profile:
   align: right
