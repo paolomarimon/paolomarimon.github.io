@@ -15,5 +15,5 @@ nav_order: 1
 subtitle: arxiv preprints
 ---
 <div class="publications">
-{% preprints -f {{ site.scholar.bibliography}} %}
+
 </div>
