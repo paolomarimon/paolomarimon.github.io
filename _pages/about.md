@@ -2,7 +2,8 @@
 layout: about
 title: About me
 permalink: /
-subtitle: [paolo.marimon@tuwien.ac.at](mailto:paolo.marimon@tuwien.ac.at)
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
 profile:
   align: right
   image: prof_pic.jpg
