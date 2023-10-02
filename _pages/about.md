@@ -13,12 +13,12 @@ profile:
     <p>Institute für Diskrete Mathematik & Geometrie.</p>
     <p>Wien, Austria</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
-Hi! I am Paolo Marimon. I am currently a postdoc in the [Algebra group](https://dmg.tuwien.ac.at/fg1/UA.html) at TU Wien.
+Hi! I am Paolo Marimon. I am currently a postdoc in the [Algebra group](https://dmg.tuwien.ac.at/fg1/UA.html) at TU Wien working for the [POCOCOP](https://pococop.eu/) project.
 
 My research is in model theory (a branch of mathematical logic) and on infinite domain Constraint Satisfaction problems (CSPs). 
 
