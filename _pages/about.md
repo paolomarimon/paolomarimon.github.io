@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: [paolo.marimon@tuwien.ac.at](mailto:paolo.marimon@tuwien.ac.at)
+email: paolo.marimon@tuwien.ac.at
 
 profile:
   align: right
