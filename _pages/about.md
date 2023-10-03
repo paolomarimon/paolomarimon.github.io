@@ -10,6 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+   <p> Email: [paolo.marimon@tuwien.ac.at](mailto:paolo.marimon@tuwien.ac.at)</p>
     <p> Office: DA05L02</p>
     <p>Institute für Diskrete Mathematik & Geometrie.</p>
     <p>Wien, Austria</p>
