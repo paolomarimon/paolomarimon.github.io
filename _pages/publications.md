@@ -9,4 +9,4 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} --group_by type %}
+{% bibliography -f PhDb --group_by type %}
