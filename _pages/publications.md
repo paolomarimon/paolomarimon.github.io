@@ -2,7 +2,9 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: Here are some of my papers and preprints!
+nav: true
+nav_order: 5
 ---
 
 ##### Arxiv Preprints
