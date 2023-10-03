@@ -9,11 +9,4 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
----
-subtitle: arxiv preprints
----
-<div class="publications">
-
-</div>
+{% bibliography -f {{ site.scholar.bibliography }} --group_by type %}
