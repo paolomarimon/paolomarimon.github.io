@@ -17,6 +17,6 @@ simple $\omega$-categorical Hrushovski constructions** <span style="color:gray">
 Camille Jordan, Lyon.(November 2022) </span>[[arxiv](https://arxiv.org/abs/2211.14628)].
 
 ##### **Posters**
-* **Measures in ternary homogeneous structures** <span style="color:gray">Imperial College London, mathematics PhD Symposium. (June 2023)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/TERNARY_Poster.pdf)]. :tada: Winner of the Runner-up prize.
-* **Invariant Keisler measures in $\omega$-categorical structures**  <span style="color:gray"> UNIMOD. Leeds (July 2022)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/TERNARY_Poster.pdf)].
+* **Measures in ternary homogeneous structures** <span style="color:gray">Imperial College London, mathematics PhD Symposium. (June 2023)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/TERNARY_poster.pdf)]. :tada: Winner of the Runner-up prize.
+* **Invariant Keisler measures in $\omega$-categorical structures**  <span style="color:gray"> UNIMOD. Leeds (July 2022)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/UNIMOD_poster.pdf)].
 
