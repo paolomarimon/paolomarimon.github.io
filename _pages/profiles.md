@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: page
 permalink: /talksposters/
 title: talks & posters
 description: Here are the slides and PDFs of some talks I have given. 
