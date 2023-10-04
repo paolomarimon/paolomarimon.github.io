@@ -13,10 +13,10 @@ nav_order: 6
 [Model Theory Workshop, Wroclaw](https://www.math.uni.wroc.pl/~pkowa/work23.html). (September 2023)
 </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Wroclaw_talk.pdf)].
 * **Universally measure zero non-forking formulas in
-simple $\omega $-categorical Hrushovski constructions** <span style="color:gray"> [7th French-Kazakh Colloquium in Model Theory](http://math.univ-lyon1.fr/homes-www/wagner/7CFK/7CFK.html). Institut
+simple $$\omega $$-categorical Hrushovski constructions** <span style="color:gray"> [7th French-Kazakh Colloquium in Model Theory](http://math.univ-lyon1.fr/homes-www/wagner/7CFK/7CFK.html). Institut
 Camille Jordan, Lyon.(November 2022) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LYON_talk_2022.pdf)].
 
 ##### **Posters**
 * **Measures in ternary homogeneous structures** <span style="color:gray">Imperial College London, mathematics PhD Symposium. (June 2023)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/TERNARY_poster.pdf)]. :tada: Winner of the Runner-up prize.
-* **Invariant Keisler measures in $\omega $-categorical structures**  <span style="color:gray"> UNIMOD. Leeds (July 2022)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/UNIMOD_poster.pdf)].
+* **Invariant Keisler measures in $$\omega$$-categorical structures**  <span style="color:gray"> UNIMOD. Leeds (July 2022)</span>[[PDF](http://paolomarimon.github.io/assets/pdf/posters/UNIMOD_poster.pdf)].
 
