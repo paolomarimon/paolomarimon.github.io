@@ -3,13 +3,16 @@
   contents:
     - name: Full Name
       value: Paolo Marimon
-   
+    - name: Date of Birth
+      value: 23rd August 1996
+    - name: Languages
+      value: English, Italian, Spanish, German (elementary), French (elementary)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Imperial College London, UK
+      institution: Imperial College London
       year: 2023
       description:
         - Description 1.
@@ -18,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Master of Mathematics & Philosophy
-      institution: University of Oxford, UK
-      year: 2019
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
         - Description 2.
@@ -28,14 +31,54 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoc
+    - title: Postdoc, POCOCOP (ERC Synergy grant)
       institution: TU Wien
       year: 2023-2024
       description:
-        - POCOCOP (ERC Synergy Grant)
+        - Description 1.
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-  
+    - title: Boh
+      institution: more stuff
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items: 
+        - Something
+    - year: 2029
+      items: 
+        - Really?
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
