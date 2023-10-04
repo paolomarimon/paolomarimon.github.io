@@ -1,5 +1,5 @@
 ---
-sort_menu: 01 
+sort_menu: 00
 layout: cv
 permalink: /cv/
 title: cv
