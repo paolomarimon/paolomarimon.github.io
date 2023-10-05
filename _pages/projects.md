@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
