@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Here are some of my papers and preprints!
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 ##### **Arxiv Preprints**
