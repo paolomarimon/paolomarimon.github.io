@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks & posters
-description: Here are the slides and PDFs of some talks I have given. 
+description: Here is a selection of slides and posters that I have presented at conferences or seminars. Please email me if you would like the slides or notes from any talk that I haven't uploaded on this site yet.
 nav: true
 nav_order: 3
 ---
