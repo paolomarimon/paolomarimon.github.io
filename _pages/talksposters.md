@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talksposters/
-title: Talks & posters
+title: talks & posters
 description: Here are the slides and PDFs of some talks I have given. 
 nav: true
 nav_order: 3
