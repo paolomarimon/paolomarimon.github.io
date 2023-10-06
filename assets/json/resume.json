@@ -81,7 +81,8 @@
       "fluency": ""
     }
   ],
-  "interests": [philosophy (especially Wittgenstein), drawing, origami],
+  "interests": [{
+  philosophy (especially Wittgenstein), drawing, origami}],
   "references": [],
   "projects": []
 }
