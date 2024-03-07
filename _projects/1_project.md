@@ -1,10 +1,10 @@
 ---
 layout: page
-title: stability theory
-description: a course I would like to teach
+title: Model theory, Spring 2024
+description: Model theory course at TU Wien taught by Michael Pinsker
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Courses
 related_publications: 
 ---
 
