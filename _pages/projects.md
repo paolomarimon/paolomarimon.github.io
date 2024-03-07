@@ -3,7 +3,8 @@ layout: page
 title: teaching
 permalink: /teaching/
 description: Notes and materials for the courses I teach
-nav: 4
+nav: true
+nav_order: 4
 ---
 
 <!-- pages/projects.md -->
