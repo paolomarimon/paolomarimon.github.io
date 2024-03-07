@@ -3,7 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 description: A growing collection of your cool projects.
-nav: false
+nav: 5
 ---
 
 <!-- pages/projects.md -->
