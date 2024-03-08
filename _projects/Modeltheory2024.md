@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Model theory, Spring 2024
-description: Model theory course at TU Wien taught by Michael Pinsker
+description: Problem sheets for the Model theory course at TU Wien taught by Michael Pinsker
 img:
 importance: 1
 category: Courses
