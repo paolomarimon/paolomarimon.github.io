@@ -2,7 +2,7 @@
 layout: page
 title: Model theory, Spring 2024
 description: Problem sheets for the Model theory course at TU Wien taught by Michael Pinsker
-img: MC2024.jpg
+img: assets/img/MC2024.jpg
 importance: 1
 category: Courses
 related_publications: 
