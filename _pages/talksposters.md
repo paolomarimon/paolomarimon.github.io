@@ -8,7 +8,6 @@ nav_order: 3
 ---
 
 ##### **Talks**
-</span>[[PDF](paolomarimon.github.io/assets/pdf/talks/Yonsei_talk_2024.pdf)].
 * **When measures don't care about structure (and when they do).** <span style="color:gray">
 Logic Seminar. Yonsei University. (March 2024)
 </span>[[PDF](paolomarimon.github.io/assets/pdf/talks/Yonsei_talk_2024.pdf)].
