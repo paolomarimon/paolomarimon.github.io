@@ -23,4 +23,4 @@ Hi! I am Paolo Marimon. I am currently a postdoc in the [Algebra group](https://
 
 My research is in model theory (a branch of mathematical logic) and on infinite domain Constraint Satisfaction problems (CSPs). 
 
-I am also running a reading group on [Infinite Domain Constraint Satisfaction Problems](https://cspreadingroup.github.io/). Please write to me if you are interested in joining the reading group.
+I am also running a reading group on [Infinite Domain Constraint Satisfaction Problems](https://cspreadingroup.github.io). Please write to me if you are interested in joining the reading group.
