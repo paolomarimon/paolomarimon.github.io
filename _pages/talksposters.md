@@ -8,6 +8,9 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **When measures don't care about structure (and when they do).** <span style="color:gray">
+Model Theory Seminar. University of Vienna. (April 2024)
+</span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Vienna_talk_2024.pdf)].
 * **Minimal operations over permutation groups.** <span style="color:gray">
 Algebra Seminar. KIAS (Korean Institute of Advanced Studies). (March 2024)
 </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/KIAS_talk_2024.pdf)].
