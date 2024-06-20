@@ -20,4 +20,6 @@ Problem sessions are on Thursdays 2-3pm in <a href=" https://tiss.tuwien.ac.at/e
   <li>For 6/06: <b>Problem sheet 9:</b> (<a href="https://paolomarimon.github.io/assets/pdf/MTEX2024/PS9.pdf" target="_blank">PDF</a>) </li>
   <li>For 13/06: <b>Problem sheet 10:</b> (<a href="https://paolomarimon.github.io/assets/pdf/MTEX2024/PS10.pdf" target="_blank">PDF</a>) </li>
    <li>For 20/06: <b>Problem sheet 11:</b> (<a href="https://paolomarimon.github.io/assets/pdf/MTEX2024/PS11.pdf" target="_blank">PDF</a>) </li>
+ <li>For 27/06: <b>Problem sheet 12:</b> (<a href="https://paolomarimon.github.io/assets/pdf/MTEX2024/PS12.pdf" target="_blank">PDF</a>) </li>
+
 
