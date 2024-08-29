@@ -13,8 +13,7 @@ nav_order: 2
 
 ##### **Arxiv Preprints**
 * **When invariance implies exchangeability (and applications to invariant Keisler measures).** with Samuel Braunfeld and Colin Jahel.
-  <span style="color:gray"> arXiv preprint arXiv: 2408.08370 (2024). Submitted. [[arxiv](https://arxiv.org/abs/2408.08370)].
-</span>
+  <span style="color:gray"> arXiv preprint arXiv: 2408.08370 (2024). Submitted. [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
 * **On the non-measurability of $$\omega$$-categorical Hrushovski constructions.** <span style="color:gray">
 arXiv preprint arXiv:2208.06323 (2022). Submitted. </span>[[arxiv](https://arxiv.org/abs/2208.06323)].
 
