@@ -9,7 +9,7 @@ nav_order: 3
 
 ##### **Talks**
 * **Exchangeability of Consistent Random Expansions.** <span style="color:gray">
-[Midsummer combinatorial Workshop XXIX](https://www.mff.cuni.cz/en/kam/events/mcw/mcw-2024). Prague (March 2024)
+[Midsummer combinatorial Workshop XXIX](https://www.mff.cuni.cz/en/kam/events/mcw/mcw-2024). Prague (July 2024)
 </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/MidsummerCombinatorics2024.pdf)].
 * **When measures don't care about structure (and when they do).** <span style="color:gray">
 Model Theory Seminar. University of Vienna. (April 2024)
