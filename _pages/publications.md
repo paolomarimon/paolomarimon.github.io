@@ -11,7 +11,7 @@ nav_order: 2
   Accepted by the [Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/invariant-keisler-measures-for-categorical-structures/DA697368ABBD00DC1CFB6C64CADCFB6B?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark). (2024).</span>[[arxiv](https://arxiv.org/abs/2211.14628)].
 
 * **On the non-measurability of $$\omega$$-categorical Hrushovski constructions.** <span style="color:gray">
-   Accepted by Archive for Mathematical Logic. arXiv preprint arXiv:2208.06323 (2022). </span>[[arxiv](https://arxiv.org/abs/2208.06323)].
+   Accepted by Archive for Mathematical Logic. (2024). </span>[[arxiv](https://arxiv.org/abs/2208.06323)].
 
 
 
