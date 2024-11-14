@@ -8,6 +8,12 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Minimal operations over permutation groups.** <span style="color:gray">
+[PALS, Panglobal Algebra and Logic Seminar](https://math.colorado.edu/algebralogic/paolo-marimon1.html). University of Colorado (November 2024)
+</span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/PALS_2024NOV.pdf), [Video](https://youtu.be/RO60Z__JHkE)].
+* **When invariance implies exchangeability.** <span style="color:gray">
+[Peking University Model Theory seminar](http://faculty.bicmr.pku.edu.cn/~kyle/pkuMTS.html). Peking (October 2024)
+</span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/PKU2024.pdf)].
 * **Exchangeability of Consistent Random Expansions.** <span style="color:gray">
 [Midsummer combinatorial Workshop XXIX](https://www.mff.cuni.cz/en/kam/events/mcw/mcw-2024). Prague (July 2024)
 </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/MidsummerCombinatorics2024.pdf)].
