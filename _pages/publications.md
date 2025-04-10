@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 ##### **Papers**
-* **Binary symmetries of tractable non-rigid structures.** with Michael Pinsker <span style="color:gray">
-  Accepted for the [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://lics.siglog.org/lics25/accepted.php). (2025).
+* **Binary symmetries of tractable non-rigid structures.** with Michael Pinsker.
+  <span style="color:gray"> Accepted for the [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://lics.siglog.org/lics25/accepted.php). (2025).
   This is a conference version of "Minimal operations over permutation groups". 
 
 * **Invariant Keisler measures for omega-categorical structures.** <span style="color:gray">
