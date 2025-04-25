@@ -9,6 +9,9 @@ nav_order: 3
 
 ##### **Talks**
 * **Minimal operations over permutation groups.** <span style="color:gray">
+[TU Wien, algebra seminar](https://www.dmg.tuwien.ac.at/fg1/FG1Seminar/Abstracts/20250404.html). TU Wien (April 2025)
+</span>[[handout](http://paolomarimon.github.io/assets/pdf/talks/TALKTUSHEET2025.pdf)].
+* **Minimal operations over permutation groups.** <span style="color:gray">
 [PALS, Panglobal Algebra and Logic Seminar](https://math.colorado.edu/algebralogic/paolo-marimon1.html). University of Colorado (November 2024)
 </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/PALS_2024NOV.pdf), [Video](https://youtu.be/RO60Z__JHkE)].
 * **When invariance implies exchangeability.** <span style="color:gray">
