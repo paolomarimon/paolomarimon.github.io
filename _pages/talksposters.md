@@ -8,8 +8,12 @@ nav_order: 3
 ---
 
 ##### **Talks**
-
-
+* **Minimal operations over permutation groups.** <span style="color:gray">
+[Summer School on General Algebra and Ordered Sets (SSAOS)](https://www.karlin.mff.cuni.cz/~ssaos/program.html). Blansko, Czech Republic (September 2025)
+</span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/SSAOS.pdf),[handout](http://paolomarimon.github.io/assets/pdf/talks/SSAOS_Handour2025.pdf)].
+* **When invariance implies exchangeability.** <span style="color:gray">
+[Logic Colloquium](https://www.colloquium.co/lc2025). TU Wien (July 2025)
+</span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LC2025_talk.pdf)]. Abstract to appear in the Bulletin of Symbolic Logic.
 * **Binary symmetries of tractable non-rigid structures.** <span style="color:gray">
 [Fortieth Annual ACM/IEEE Symposium on
 Logic in Computer Science (LICS)](https://www.ti.inf.uni-due.de/misc/lics2025/programme-lics25.html). National University of Singapore (June 2025)
