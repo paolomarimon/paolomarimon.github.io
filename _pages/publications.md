@@ -8,7 +8,7 @@ nav_order: 2
 ---
 ##### **Papers**
 * **Binary symmetries of tractable non-rigid structures.** with Michael Pinsker.
-  <span style="color:gray"> Accepted for the [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://doi.org/10.1109/LICS65433.2025.00036). (2025).
+  <span style="color:gray"> [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://doi.org/10.1109/LICS65433.2025.00036). (2025).
   This is a conference version of "Minimal operations over permutation groups". 
 
 * **On the non-measurability of $$\omega$$-categorical Hrushovski constructions.** <span style="color:gray">
