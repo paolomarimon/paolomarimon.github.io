@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **On topological reconstruction for monoids of elementary embeddings.** <span style="color:gray">
+[Logic Seminar](https://mathsseminars.leeds.ac.uk/seminars/2025-11-26-paolo-marimon-tu-wien/). University of Leeds (November 2025) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LeedsLS25.pdf)].
 * **Minimal operations over permutation groups.** <span style="color:gray">
 [Summer School on General Algebra and Ordered Sets (SSAOS)](https://www.karlin.mff.cuni.cz/~ssaos/program.html). Blansko, Czech Republic (September 2025)
 </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/SSAOS.pdf), [handout](http://paolomarimon.github.io/assets/pdf/talks/SSAOS_Handout2025.pdf)].
