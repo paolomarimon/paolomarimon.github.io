@@ -19,8 +19,11 @@ nav_order: 2
 
 
 ##### **Arxiv Preprints**
+* **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
+  <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2024). Submitted. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
+
 * **Minimal operations over permutation groups.** with Michael Pinsker.
-  <span style="color:gray"> arXiv preprint arXiv: 2410.22060  (2024). [[arxiv](https://arxiv.org/abs/2410.22060)] </span>
+  <span style="color:gray"> arXiv preprint arXiv: 2410.22060  (2024). Submitted. [[arxiv](https://arxiv.org/abs/2410.22060)] </span>
 
 * **When invariance implies exchangeability (and applications to invariant Keisler measures).** with Samuel Braunfeld and Colin Jahel.
   <span style="color:gray"> arXiv preprint arXiv: 2408.08370 (2024). Submitted. [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
