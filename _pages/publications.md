@@ -20,7 +20,7 @@ nav_order: 2
 
 ##### **Arxiv Preprints**
 * **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
-  <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2024). Submitted. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
+  <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
 
 * **Minimal operations over permutation groups.** with Michael Pinsker.
   <span style="color:gray"> arXiv preprint arXiv: 2410.22060  (2024). Submitted. [[arxiv](https://arxiv.org/abs/2410.22060)] </span>
