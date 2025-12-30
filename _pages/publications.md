@@ -15,10 +15,13 @@ nav_order: 2
  [Archive for Mathematical Logic. Volume 64, pages 351–386](https://link.springer.com/article/10.1007/s00153-024-00943-4), (2025).[[arxiv](https://arxiv.org/abs/2208.06323)].
 
 * **Invariant Keisler measures for omega-categorical structures.** <span style="color:gray">
-  [Journal of Symbolic Logic](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/invariant-keisler-measures-for-categorical-structures/DA697368ABBD00DC1CFB6C64CADCFB6B?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark). (2024).</span>[[arxiv](https://arxiv.org/abs/2211.14628)].
+  [Journal of Symbolic Logic. Volume 90 , Issue 2 , pages 791-807](https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/invariant-keisler-measures-for-categorical-structures/DA697368ABBD00DC1CFB6C64CADCFB6B?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark). (2024).</span>[[arxiv](https://arxiv.org/abs/2211.14628)].
 
 
 ##### **Arxiv Preprints**
+* **Taking model-complete cores.** with Manuel Bodirsky and Bertalan Bodor.
+  <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). [[arxiv](https://arxiv.org/pdf/2512.21278)] </span>
+
 * **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
   <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
 
