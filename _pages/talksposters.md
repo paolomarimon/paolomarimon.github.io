@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Tutorial: on the topological reconstruction of endomorphism monoids of $$\omega$$-categorical structures.** <span style="color:gray">
+[Oberwolfach workshop. Homogeneous Structures: Model Theory meets Universal Algebra](https://www.mfo.de/www/activity/2551). Oberwolfach (December 2025) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Oberwolfach25.pdf)].
 * **On topological reconstruction for monoids of elementary embeddings.** <span style="color:gray">
 [Logic Seminar](https://mathsseminars.leeds.ac.uk/seminars/2025-11-26-paolo-marimon-tu-wien/). University of Leeds (November 2025) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LeedsLS25.pdf)].
 * **Minimal operations over permutation groups.** <span style="color:gray">
