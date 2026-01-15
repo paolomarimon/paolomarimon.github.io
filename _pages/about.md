@@ -2,25 +2,25 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <paolo.marimon@tuwien.ac.at>
-email: paolo.marimon@tuwien.ac.at
+subtitle: <paolo.marimon@cs.ox.ax.uk>
+email: paolo.marimon@cs.ox.ax.uk
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Office: DA05L02</p>
-    <p>Institut für Diskrete Mathematik & Geometrie.</p>
-    <p>Wien, Austria</p>
+    <p> Office: 326</p>
+    <p> Wolfson Building. Department of Computer Science.</p>
+    <p> Oxford. United Kingdom. </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I am Paolo Marimon. I am currently a postdoc in the [Algebra group](https://dmg.tuwien.ac.at/fg1/UA.html) at TU Wien working for the [POCOCOP](https://pococop.eu/) project (ERC Synergy Grant).
+Hi! I am Paolo Marimon. I am currently a Senior Research Associate in the [Algorithms and Complexity](https://www.cs.ox.ac.uk/research/algorithms/) research group at the University of Oxford working for the UKRI ERC Guarantee Grant (previously ERC Consolidator Grant) [NAASP](https://www.cs.ox.ac.uk/standa.zivny/naasp.html) (New Approaches to Approximability of Satisfiable Problems).
 
-My research is in model theory (a branch of mathematical logic) and on infinite domain Constraint Satisfaction problems (CSPs). 
+Previously I was a postdoc in the [Algebra group](https://dmg.tuwien.ac.at/fg1/UA.html) at TU Wien working for the ERC Synergy Grant [POCOCOP](https://pococop.eu/).
 
-I am also running a reading group on [Infinite Domain Constraint Satisfaction Problems](https://cspreadingroup.github.io). Please write to me if you are interested in joining the reading group.
+My research is in model theory (a branch of mathematical logic) and on infinite domain Constraint Satisfaction problems (CSPs).
