@@ -20,7 +20,7 @@ nav_order: 2
 
 ##### **Arxiv Preprints**
 * **Taking model-complete cores.** with Manuel Bodirsky and Bertalan Bodor.
-  <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). [[arxiv](https://arxiv.org/pdf/2512.21278)] </span>
+  <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). Submitted. [[arxiv](https://arxiv.org/pdf/2512.21278)] </span>
 
 * **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
   <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
