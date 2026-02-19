@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Taking Model Complete Cores** <span style="color:gray">
+[London Logic Seminar](https://www.imperial.ac.uk/events/205795/london-logic-seminar-paolo-marimon-university-of-oxford/) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Imperial_2026.pdf)].
 * **Tutorial: on the topological reconstruction of endomorphism monoids of $$\omega$$-categorical structures.** <span style="color:gray">
 [Oberwolfach workshop. Homogeneous Structures: Model Theory meets Universal Algebra](https://www.mfo.de/www/activity/2551). Oberwolfach (December 2025) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Oberwolfach25.pdf)].
 * **On topological reconstruction for monoids of elementary embeddings.** <span style="color:gray">
