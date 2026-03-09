@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Paolo
 middle_name:
 last_name: Marimon
-email: paolo.marimon@tuwien.ac.at
+email: paolo.marimon@cs.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi! I am Paolo Marimon. I am currently a postdoc at TU Wien. 
+  Hi! I am Paolo Marimon. I am currently a Senior Research Associate at the Department of Computer Science of the University of Oxford. 
 footer_text: >
  
 keywords: model theory, constraint satisfaction problems, Keisler measures
