@@ -19,8 +19,11 @@ nav_order: 2
 
 
 ##### **Arxiv Preprints**
+* **Minimal and intrinsic topologies on monoids of elementary embeddings.** with J. de la Nuez Gonzalez, Zaniar Ghadernezhad, and Michael Pinsker.
+  <span style="color:gray"> arXiv preprint arXiv:	2603.28419   (2026). [[arxiv](https://arxiv.org/abs/2603.28419)] </span>
+
 * **Taking model-complete cores.** with Manuel Bodirsky and Bertalan Bodor.
-  <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). Submitted. [[arxiv](https://arxiv.org/pdf/2512.21278)] </span>
+  <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.21278)] </span>
 
 * **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
   <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
@@ -29,7 +32,7 @@ nav_order: 2
   <span style="color:gray"> arXiv preprint arXiv: 2410.22060  (2024). Submitted. [[arxiv](https://arxiv.org/abs/2410.22060)] </span>
 
 * **When invariance implies exchangeability (and applications to invariant Keisler measures).** with Samuel Braunfeld and Colin Jahel.
-  <span style="color:gray"> arXiv preprint arXiv: 2408.08370 (2024). Submitted. [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
+  <span style="color:gray"> arXiv preprint arXiv: 2408.08370 (2024). In review. [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
 
 ##### **PhD Thesis**
 * **Measures and amalgamation properties in $$\omega$$-categorical structures.**
