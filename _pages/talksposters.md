@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Mixed identities and Neumann's Lemma** <span style="color:gray">
+[Back & Forth Lectures, 2nd Edition](https://sites.google.com/view/back-and-forth-lectures). University of Turin. Outreach talk in Italian. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Back_Forth2026_NOALG.pdf)].
 * **Taking Model Complete Cores.** <span style="color:gray">
 [London Logic Seminar](https://www.imperial.ac.uk/events/205795/london-logic-seminar-paolo-marimon-university-of-oxford/). Imperial College London. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Imperial_2026.pdf)].
 * **Tutorial: on the topological reconstruction of endomorphism monoids of $$\omega$$-categorical structures.** <span style="color:gray">
