@@ -9,11 +9,11 @@ nav_order: 3
 
 ##### **Talks**
 * **Minimal and intrinsic topologies on monoids of elementary embeddings** <span style="color:gray">
-[Semigroups seminar](https://manchester-semigroups.github.io/). University of Manchester. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Manchester2026.pdf)].
+[Semigroups seminar](https://manchester-semigroups.github.io/). University of Manchester. (May 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Manchester2026.pdf)].
 * **Mixed identities and Neumann's Lemma** <span style="color:gray">
-[Back & Forth Lectures, 2nd Edition](https://sites.google.com/view/back-and-forth-lectures). University of Turin. Outreach talk in Italian. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Back_Forth2026_NOALG.pdf)].
+[Back & Forth Lectures, 2nd Edition](https://sites.google.com/view/back-and-forth-lectures). University of Turin. Outreach talk in Italian. (April 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Back_Forth2026_NOALG.pdf)].
 * **Taking Model Complete Cores.** <span style="color:gray">
-[London Logic Seminar](https://www.imperial.ac.uk/events/205795/london-logic-seminar-paolo-marimon-university-of-oxford/). Imperial College London. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Imperial_2026.pdf)].
+[London Logic Seminar](https://www.imperial.ac.uk/events/205795/london-logic-seminar-paolo-marimon-university-of-oxford/). Imperial College London. (February 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Imperial_2026.pdf)].
 * **Tutorial: on the topological reconstruction of endomorphism monoids of $$\omega$$-categorical structures.** <span style="color:gray">
 [Oberwolfach workshop. Homogeneous Structures: Model Theory meets Universal Algebra](https://www.mfo.de/www/activity/2551). Oberwolfach (December 2025) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Oberwolfach25.pdf)].
 * **On topological reconstruction for monoids of elementary embeddings.** <span style="color:gray">
