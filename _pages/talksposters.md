@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Minimal and intrinsic topologies on monoids of elementary embeddings** <span style="color:gray">
+[Semigroups seminar](https://manchester-semigroups.github.io/). University of Manchester. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Manchester2026.pdf)].
 * **Mixed identities and Neumann's Lemma** <span style="color:gray">
 [Back & Forth Lectures, 2nd Edition](https://sites.google.com/view/back-and-forth-lectures). University of Turin. Outreach talk in Italian. </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Back_Forth2026_NOALG.pdf)].
 * **Taking Model Complete Cores.** <span style="color:gray">
