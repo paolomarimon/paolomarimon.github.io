@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Mixed identities and Neumann's Lemma.** <span style="color:gray">
+[LyMots meeting](https://personalpages.manchester.ac.uk/staff/Marcus.Tressl/events/LYMoTS.php). University of Leeds. (June 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LyMots2026.pdf)].
 * **Minimal and intrinsic topologies on monoids of elementary embeddings.** <span style="color:gray">
 [Semigroups seminar](https://manchester-semigroups.github.io/). University of Manchester. (May 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/Manchester2026.pdf)].
 * **Mixed identities and Neumann's Lemma.** <span style="color:gray">
