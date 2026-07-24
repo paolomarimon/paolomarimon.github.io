@@ -9,7 +9,7 @@ nav_order: 3
 
 ##### **Talks**
 * **Minimal and intrinsic topologies on monoids of elementary embeddings.** <span style="color:gray">
-[Algebra, Topology, and Their Interactions (ATTI)](https://algebratopology.uniud.it/). University of Udine. (Jul 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/ATTI2026.pdf)].
+[Algebra, Topology, and Their Interactions (ATTI)](https://algebratopology.uniud.it/). University of Udine. (July 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/ATTI2026.pdf)].
 * **Mixed identities and Neumann's Lemma.** <span style="color:gray">
 [LyMots meeting](https://personalpages.manchester.ac.uk/staff/Marcus.Tressl/events/LYMoTS.php). University of Leeds. (June 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LyMots2026.pdf)].
 * **Minimal and intrinsic topologies on monoids of elementary embeddings.** <span style="color:gray">
