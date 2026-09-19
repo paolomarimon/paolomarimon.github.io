@@ -7,6 +7,12 @@ nav: true
 nav_order: 2
 ---
 ##### **Papers**
+* **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
+  <span style="color:gray"> To appear: Mai Gehrke on Logic, Algebra, and Duality. Springer Series Outstanding contributions to Logic. (2026). [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
+
+* **When invariance implies exchangeability (and applications to invariant Keisler measures).** with Samuel Braunfeld and Colin Jahel.
+  <span style="color:gray"> To appear: [Annales Henri Lebesgue](https://ahl.centre-mersenne.org/page/coming-articles/). (2026). [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
+
 * **Binary symmetries of tractable non-rigid structures.** with Michael Pinsker.
   <span style="color:gray"> [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://doi.org/10.1109/LICS65433.2025.00036). (2025).
   This is a conference version of "Minimal operations over permutation groups". 
@@ -28,14 +34,9 @@ nav_order: 2
 * **Taking model-complete cores.** with Manuel Bodirsky and Bertalan Bodor.
   <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.21278)] </span>
 
-* **A guide to topological reconstruction on endomorphism monoids and polymorphism clones.** with Michael Pinsker.
-  <span style="color:gray"> arXiv preprint arXiv: 2512.01086  (2025). In review. [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
-
 * **Minimal operations over permutation groups.** with Michael Pinsker.
   <span style="color:gray"> arXiv preprint arXiv: 2410.22060  (2024). In review. [[arxiv](https://arxiv.org/abs/2410.22060)] </span>
-
-* **When invariance implies exchangeability (and applications to invariant Keisler measures).** with Samuel Braunfeld and Colin Jahel.
-  <span style="color:gray"> arXiv preprint arXiv: 2408.08370 (2024). In review. [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
+  
 
 ##### **PhD Thesis**
 * **Measures and amalgamation properties in $$\omega$$-categorical structures.**
