@@ -26,10 +26,10 @@ nav_order: 2
 
 ##### **Arxiv Preprints**
 * **All mixed identities are singular in groups with no algebraicity.** with Michael Pinsker.
-  <span style="color:gray"> arXiv preprint arXiv:	2606.24741 (2026). [[arxiv](https://arxiv.org/abs/2606.24741)] </span>
+  <span style="color:gray"> arXiv preprint arXiv:	2606.24741 (2026). Submitted. [[arxiv](https://arxiv.org/abs/2606.24741)] </span>
 
 * **Minimal and intrinsic topologies on monoids of elementary embeddings.** with J. de la Nuez Gonzalez, Zaniar Ghadernezhad, and Michael Pinsker.
-  <span style="color:gray"> arXiv preprint arXiv:	2603.28419   (2026). [[arxiv](https://arxiv.org/abs/2603.28419)] </span>
+  <span style="color:gray"> arXiv preprint arXiv:	2603.28419   (2026). Submitted. [[arxiv](https://arxiv.org/abs/2603.28419)] </span>
 
 * **Taking model-complete cores.** with Manuel Bodirsky and Bertalan Bodor.
   <span style="color:gray"> arXiv preprint arXiv:	2512.21278   (2025). Submitted. [[arxiv](https://arxiv.org/abs/2512.21278)] </span>
