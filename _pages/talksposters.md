@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ##### **Talks**
-* **All mixed identities are singular in groups with no algebraicity <span style="color:gray">
+* **All mixed identities are singular in groups with no algebraicity** <span style="color:gray">
 [Logic seminar](https://www.maths.ox.ac.uk/node/83083). University of Oxford. (October 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LogicSeminarOxford2026.pdf)].
 * **Minimal and intrinsic topologies on monoids of elementary embeddings.** <span style="color:gray">
 [Algebra, Topology, and Their Interactions (ATTI)](https://algebratopology.uniud.it/). University of Udine. (July 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/ATTI2026.pdf)].
