@@ -9,6 +9,8 @@ nav_order: 3
 
 ##### **Talks**
 * **All mixed identities are singular in groups with no algebraicity.** <span style="color:gray">
+[Algebra Seminar](https://events.manchester.ac.uk/event/event:r95-mupc561m-8ho3ej/heilbronn-algebra-seminar-paolo-marimon). University of Manchester. (October 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/AlgebraSeminarManchester2026.pdf)].
+* **All mixed identities are singular in groups with no algebraicity.** <span style="color:gray">
 [Logic seminar](https://www.maths.ox.ac.uk/node/83083). University of Oxford. (October 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/LogicSeminarOxford2026.pdf)].
 * **Minimal and intrinsic topologies on monoids of elementary embeddings.** <span style="color:gray">
 [Algebra, Topology, and Their Interactions (ATTI)](https://algebratopology.uniud.it/). University of Udine. (July 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/ATTI2026.pdf)].
