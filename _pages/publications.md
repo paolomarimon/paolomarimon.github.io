@@ -11,7 +11,7 @@ nav_order: 2
   <span style="color:gray"> To appear: Mai Gehrke on Logic, Algebra, and Duality. Springer Series Outstanding contributions to Logic. (2026). [[arxiv](https://arxiv.org/abs/2512.01086)] </span>
 
 * **When invariance implies exchangeability (and applications to invariant Keisler measures).** with Samuel Braunfeld and Colin Jahel.
-  <span style="color:gray"> To appear: [Annales Henri Lebesgue](https://ahl.centre-mersenne.org/item/AHL_2026__9__1463_0/). (2026). [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
+  <span style="color:gray"> [Annales Henri Lebesgue. Volume 9, pages 1463-1539](https://ahl.centre-mersenne.org/item/AHL_2026__9__1463_0/). (2026). [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
 
 * **Binary symmetries of tractable non-rigid structures.** with Michael Pinsker.
   <span style="color:gray"> [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://doi.org/10.1109/LICS65433.2025.00036). (2025).
