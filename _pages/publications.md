@@ -14,7 +14,7 @@ nav_order: 2
   <span style="color:gray"> [Annales Henri Lebesgue. Volume 9, pages 1463-1539](https://ahl.centre-mersenne.org/item/AHL_2026__9__1463_0/). (2026). [[arxiv](https://arxiv.org/abs/2408.08370)] </span>
 
 * **Binary symmetries of tractable non-rigid structures.** with Michael Pinsker.
-  <span style="color:gray"> [Fortieth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS)](https://doi.org/10.1109/LICS65433.2025.00036). (2025).
+  <span style="color:gray"> [2025 40th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), Singapore. pages 389-402](https://doi.org/10.1109/LICS65433.2025.00036). (2025).
   This is a conference version of "Minimal operations over permutation groups". 
 
 * **On the non-measurability of $$\omega$$-categorical Hrushovski constructions.** <span style="color:gray">
