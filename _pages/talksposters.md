@@ -8,6 +8,8 @@ nav_order: 3
 ---
 
 ##### **Talks**
+* **Minimal and intrinsic topologies on monoids of elementary embeddings.** <span style="color:gray">
+Pure Mathematics Seminar. University of East Anglia. (November 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/UEA2026.pdf)]
 * **All mixed identities are singular in groups with no algebraicity.** <span style="color:gray">
 [Heilbronn Algebra Seminar](https://events.manchester.ac.uk/event/event:r95-mupc561m-8ho3ej/heilbronn-algebra-seminar-paolo-marimon). University of Manchester. (October 2026) </span>[[PDF](http://paolomarimon.github.io/assets/pdf/talks/AlgebraSeminarManchester2026.pdf)].
 * **All mixed identities are singular in groups with no algebraicity.** <span style="color:gray">
